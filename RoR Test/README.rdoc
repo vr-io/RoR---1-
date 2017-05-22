@@ -1,0 +1,5 @@
+do the below things before you are running the application
+
+$rake db:migrate
+$rake db:seed
+
